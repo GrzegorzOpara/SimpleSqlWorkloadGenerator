@@ -25,8 +25,3 @@ _./Invoke-SqlWorkload -ServerInstance sqlserver-ii2ohj2n2pda4.database.windows.n
 
 This project is licensed under the MIT License.
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
