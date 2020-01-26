@@ -1,4 +1,4 @@
-# Simple Sql Workload Geenrator
+# Simple Sql Workload Generator
 
 The very simple powershell script to execute queries against a specified SQL server in order to generate the workload. It randomly picks up the query from the file and executes it on the specified database, then repeats that until specified time elapses.
 
