@@ -4,7 +4,7 @@ The very simple powershell script to execute queries against a specified SQL ser
 
 ## Getting Started
 
-Download the Invoke-SqlWorkload.ps1 along with the SqlScripts folder.
+Download the Invoke-SqlWorkload.ps1 along with the SqlScripts folder. At this point there is only one sample file with queries (StackOverflow2010_queries.sql) in SqlScripts folder. The script is based on StackOverflow2010 databases (it can be dwonloaded from here: https://www.brentozar.com/archive/2018/01/updated-and-smaller-stack-overflow-demo-databases/).
 
 ### Prerequisites
 
